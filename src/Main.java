@@ -10,5 +10,8 @@ public class Main {
         System.out.println("meu cargo é: "+empresa.cargoFuncionario);
         System.out.println("Salario de: "+empresa.salarioFuncionario);
 
+            //testanto nova branch
+        EmpresaSetor empresaSetor = new EmpresaSetor();
+        System.out.println(empresaSetor.nomeSetorJuridico);
     }
 }
